@@ -1,0 +1,22 @@
+{
+  "name": "call-counter--mem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weewdeploy22/call-counter--mem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weewdeploy22/call-counter--mem/issues"
+  },
+  "homepage": "https://github.com/weewdeploy22/call-counter--mem#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
